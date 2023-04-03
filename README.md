@@ -17,9 +17,9 @@ Link [Live Demo](https://crpto-hunter.netlify.app/).
 
 T**echnologies used**:
 
-* ReactJS
-* Material UI
-* Firebase
+*  [ReactJS](https://react.dev/learn)
+*  [ Material UI](https://mui.com/)
+*  [Firebase](https://firebase.google.com/)
 
 Contributing:
 If you would like to contribute to the project, please create a pull request with your changes. We welcome all contributions!
